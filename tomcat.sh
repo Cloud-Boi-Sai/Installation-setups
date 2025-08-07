@@ -1,3 +1,4 @@
+#!/bin/bash
 yum install java-17-amazon-corretto -y
 wget https://dlcdn.apache.org/tomcat/tomcat-9/v9.0.104/bin/apache-tomcat-9.0.104.tar.gz
 tar -zxvf apache-tomcat-9.0.104.tar.gz
